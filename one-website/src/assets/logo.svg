@@ -1,0 +1,7 @@
+<svg width="220" height="60" viewBox="0 0 220 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="220" height="60" rx="12" fill="black"/>
+  <g>
+    <text x="22" y="38" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="28" fill="white">ONE</text>
+    <path d="M180 15 L195 15 L185 35 L200 35 L175 55 L185 35 L170 35 Z" fill="#EF4444"/>
+  </g>
+</svg>
